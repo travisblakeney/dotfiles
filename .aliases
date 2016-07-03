@@ -1,0 +1,8 @@
+
+alias dotfiles='/usr/bin/git --git-dir=~/.dotfiles/ --work-tree=~'
+
+# Get OS X Software Updates, and update Homebrew and its installed packages
+alias update='sudo softwareupdate -i -a; brew update; brew cask update; brew upgrade; brew cleanup'
+
+# Reload the shell (i.e. invoke as a login shell)
+alias reload="exec $SHELL -l"
