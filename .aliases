@@ -1,5 +1,5 @@
 
-alias dotfiles='/usr/bin/git --git-dir=~/.dotfiles/ --work-tree=~'
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
 # Get OS X Software Updates, and update Homebrew and its installed packages
 alias update='sudo softwareupdate -i -a; brew update; brew cask update; brew upgrade; brew cleanup'
