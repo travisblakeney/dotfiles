@@ -27,6 +27,7 @@ brew install jq
 brew install gradle
 brew install groovy
 brew install maven
+brew install htop
 
 # Install Homebrew Cask
 brew install caskroom/cask/brew-cask
