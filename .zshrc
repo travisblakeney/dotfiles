@@ -1,1 +1,0 @@
-/Users/tblakeney/.zprezto/runcoms/zshrc
