@@ -39,6 +39,7 @@ values."
      clojure
      python
      scala
+     yaml
      ;; spell-checking
      ;; syntax-checking
      )
