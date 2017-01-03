@@ -7,8 +7,8 @@ when setting up a new machine run the following
 # install homebrew ``` /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"  ```
 
 ``` ./homebrew.sh ```
-``` ./setup-tools.sh ```
 ``` curl -Lks http://bit.ly/298VR5y | /bin/bash ```
 ``` ./setup-vim.sh ```
+``` ./setup-tools.sh ```
 
 

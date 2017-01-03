@@ -24,10 +24,8 @@ Plugin 'editorconfig/editorconfig-vim'
 call vundle#end()
 filetype plugin indent on 
 
-" Set up the Base16 Tomorrow Dark theme
-let base16colorspace=256
-colorscheme base16-atelierlakeside
-set background=dark
+" Setup color theme
+colo jellybeans
 
 " Other codey settings
 syntax on
