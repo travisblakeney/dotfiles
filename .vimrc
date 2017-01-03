@@ -32,6 +32,8 @@ syntax on
 set number
 set ts=4
 
+set clipboard=unnamed
+
 " Search settings
 set incsearch hlsearch
 

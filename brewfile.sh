@@ -22,6 +22,7 @@ brew install macvim --with-cscope --with-lua --override-system-vim
 brew install git
 brew install tree
 brew install jq
+brew install libxml2
 
 # Install development languages and tooling
 brew install gradle
