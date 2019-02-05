@@ -13,10 +13,10 @@ brew install moreutils
 brew install findutils
 
 # Install wget with IRI support
-brew install wget --with-iri
+brew install wget
 
 # Install MacVim with LUA support
-brew install macvim --with-cscope --with-lua --override-system-vim
+brew install macvim --override-system-vim
 
 # Install other useful binaries
 brew install git
@@ -29,10 +29,6 @@ brew install gradle
 brew install groovy
 brew install maven
 brew install htop
-brew install node
-
-# Install Homebrew Cask
-brew install caskroom/cask/brew-cask
 
 # Install cloud tools
 brew install awscli
